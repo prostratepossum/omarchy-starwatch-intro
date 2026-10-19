@@ -1,5 +1,7 @@
 # Starwatch Intro
 
+> **Superseded.** This plugin is now [omarchy-living-intro](https://github.com/prostratepossum/omarchy-living-intro), part of [Omarchy Living Themes](https://github.com/prostratepossum/omarchy-living-themes). It has the same Starwatch scene plus Moonlit Hearth, and switches automatically with your theme. This repository is archived and gets no further updates.
+
 A one-shot animation of about 5.6 s that plays when your desktop first appears after boot. The night sky fades and zooms in, fireflies gather toward the centre, a marmot badge blooms inside a drawn ring with a greeting, and then an iris opens onto your desktop.
 
 ![preview](preview.jpg)
